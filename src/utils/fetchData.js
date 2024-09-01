@@ -6,6 +6,17 @@ export const exerciseOptions = {
   }
 };
 
+// const exerciseOptions = {
+// 	method: 'GET',
+// 	headers: {
+// 		'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY,
+// 		'x-rapidapi-host': 'exercisedb.p.rapidapi.com'
+// 	}
+// };
+
+// console.log(exerciseOptions.headers);
+
+
 export const youtubeOptions = {
   method: 'GET',
   headers: {
